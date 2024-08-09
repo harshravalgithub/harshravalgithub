@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @harshravalgithub
-- 👀 I’m interested in Measurement, Piping and Instrumentation Diagrams and Communication Protocols
+- 👋 Hi, I am Ravak Harsh
+- 👀 I’m interested in Measurement, Piping, and Instrumentation Diagrams and Communication Protocols
 - 🌱 I’m currently learning Instrumentation for Agriculture and Food Processing
 - 📫 You can reach me at email: harshraval1148@gmail.com
 
